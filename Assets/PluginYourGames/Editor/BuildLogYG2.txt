@@ -1,0 +1,3 @@
+Build path: /Users/new.iphone.shopicloud.com/Desktop/CollectMoney
+Build number: 15
+PluginYG version: 2.0032

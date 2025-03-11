@@ -1,0 +1,57 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 1385,
+    "music": true,
+    "money": 900,
+    "level": 4,
+    "levelText": 10,
+    "saveSkin": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "selectionSkin": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "serverTime": 1721201231000,
+    "hasRewardSaved": false,
+    "saveReward": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "saveTookTheReward": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}
